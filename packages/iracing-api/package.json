@@ -28,7 +28,6 @@
     },
     "homepage": "https://iracing-api.dyczkowski.dev/",
     "dependencies": {
-        "crypto-js": "^4.1.1",
         "fetch-cookie": "^2.1.0",
         "humps": "^2.0.1",
         "zod": "^3.22.4"
@@ -36,7 +35,7 @@
     "devDependencies": {
         "@types/crypto-js": "^4.1.1",
         "@types/humps": "^2.0.2",
-        "@types/node": "^18.13.0",
+        "@types/node": "^24.0.3",
         "@types/tough-cookie": "^4.0.2",
         "@typescript-eslint/eslint-plugin": "^6.6.0",
         "@typescript-eslint/parser": "^6.6.0",
